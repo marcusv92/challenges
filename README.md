@@ -2,7 +2,7 @@
 
 Deve ser desenvolvido uma aplicação que permitirá que um usuário pesquise repositórios no GitHub, exibindo algumas infomações que você ache interesante de cada repositório (URL, contagem de watchers, de estrelas, de commits, e branches e etc...).
  
-Deve poder adicionar um repositório da buscana sua lista de favoritos da aplicação;
+Deve poder adicionar um repositório da busca na sua lista de favoritos da aplicação;
 
 Deve poder navegar à uma página de informações do repositório (a partir dos repositórios adicionandos na lista de favoritos) ever informações do repositório (issues, commits, pull requests, stars, release e etc) e um link para ir ao repositório no próprio GitHub.
 
